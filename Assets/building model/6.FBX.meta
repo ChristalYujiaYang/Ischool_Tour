@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 45a7ab0831b886f4ea35b597bf6aaa24
-timeCreated: 1476804752
+guid: 0797bf4cae0ddb94aa2eb2056519ffa6
+timeCreated: 1477711022
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -74,7 +74,14 @@ ModelImporter:
     100132: Line066
     100134: Line067
     100136: Line068
-    100138: Rectangle001
+    100138: Line069
+    100140: Line070
+    100142: Line071
+    100144: Line072
+    100146: Line073
+    100148: Line074
+    100150: Line075
+    100152: Rectangle002
     400000: //RootNode
     400002: Line001
     400004: Line002
@@ -144,7 +151,14 @@ ModelImporter:
     400132: Line066
     400134: Line067
     400136: Line068
-    400138: Rectangle001
+    400138: Line069
+    400140: Line070
+    400142: Line071
+    400144: Line072
+    400146: Line073
+    400148: Line074
+    400150: Line075
+    400152: Rectangle002
     2300000: Line001
     2300002: Line002
     2300004: Line003
@@ -213,7 +227,14 @@ ModelImporter:
     2300130: Line066
     2300132: Line067
     2300134: Line068
-    2300136: Rectangle001
+    2300136: Line069
+    2300138: Line070
+    2300140: Line071
+    2300142: Line072
+    2300144: Line073
+    2300146: Line074
+    2300148: Line075
+    2300150: Rectangle002
     3300000: Line001
     3300002: Line002
     3300004: Line003
@@ -282,7 +303,14 @@ ModelImporter:
     3300130: Line066
     3300132: Line067
     3300134: Line068
-    3300136: Rectangle001
+    3300136: Line069
+    3300138: Line070
+    3300140: Line071
+    3300142: Line072
+    3300144: Line073
+    3300146: Line074
+    3300148: Line075
+    3300150: Rectangle002
     4300000: Line001
     4300002: Line002
     4300004: Line003
@@ -351,7 +379,14 @@ ModelImporter:
     4300130: Line066
     4300132: Line067
     4300134: Line068
-    4300136: Rectangle001
+    4300136: Line069
+    4300138: Line070
+    4300140: Line071
+    4300142: Line072
+    4300144: Line073
+    4300146: Line074
+    4300148: Line075
+    4300150: Rectangle002
     9500000: //RootNode
   materials:
     importMaterials: 1

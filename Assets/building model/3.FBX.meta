@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 65cdf60c9f5a22e4c8af55b808bcf3b2
-timeCreated: 1476804754
+guid: ccc2b892eae5d3f4fa8dcd639773c54d
+timeCreated: 1477690800
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -37,7 +37,13 @@ ModelImporter:
     100058: Line033
     100060: Line034
     100062: Line035
-    100064: Rectangle001
+    100064: Line036
+    100066: Line037
+    100068: Line038
+    100070: Line039
+    100072: Line040
+    100074: Line041
+    100076: Rectangle002
     400000: //RootNode
     400002: Line004
     400004: Line005
@@ -70,7 +76,13 @@ ModelImporter:
     400058: Line033
     400060: Line034
     400062: Line035
-    400064: Rectangle001
+    400064: Line036
+    400066: Line037
+    400068: Line038
+    400070: Line039
+    400072: Line040
+    400074: Line041
+    400076: Rectangle002
     2300000: Line004
     2300002: Line005
     2300004: Line006
@@ -102,7 +114,13 @@ ModelImporter:
     2300056: Line033
     2300058: Line034
     2300060: Line035
-    2300062: Rectangle001
+    2300062: Line036
+    2300064: Line037
+    2300066: Line038
+    2300068: Line039
+    2300070: Line040
+    2300072: Line041
+    2300074: Rectangle002
     3300000: Line004
     3300002: Line005
     3300004: Line006
@@ -134,7 +152,13 @@ ModelImporter:
     3300056: Line033
     3300058: Line034
     3300060: Line035
-    3300062: Rectangle001
+    3300062: Line036
+    3300064: Line037
+    3300066: Line038
+    3300068: Line039
+    3300070: Line040
+    3300072: Line041
+    3300074: Rectangle002
     4300000: Line004
     4300002: Line005
     4300004: Line006
@@ -165,8 +189,14 @@ ModelImporter:
     4300054: Line032
     4300056: Line033
     4300058: Line034
-    4300060: Rectangle001
-    4300062: Line035
+    4300060: Line035
+    4300062: Line036
+    4300064: Line037
+    4300066: Line038
+    4300068: Line039
+    4300070: Line040
+    4300072: Line041
+    4300074: Rectangle002
     9500000: //RootNode
   materials:
     importMaterials: 1

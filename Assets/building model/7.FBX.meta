@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9322dfea5459be84aae8bddbe549e814
-timeCreated: 1476804754
+guid: dd49425026490e743aa7ee22d5c5680b
+timeCreated: 1477712210
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -67,7 +67,19 @@ ModelImporter:
     100118: Line059
     100120: Line060
     100122: Line061
-    100124: Rectangle001
+    100124: Line062
+    100126: Line063
+    100128: Line064
+    100130: Line065
+    100132: Line066
+    100134: Line067
+    100136: Line068
+    100138: Line069
+    100140: Line070
+    100142: Line071
+    100144: Line072
+    100146: Line073
+    100148: Rectangle002
     400000: //RootNode
     400002: Line001
     400004: Line002
@@ -130,7 +142,19 @@ ModelImporter:
     400118: Line059
     400120: Line060
     400122: Line061
-    400124: Rectangle001
+    400124: Line062
+    400126: Line063
+    400128: Line064
+    400130: Line065
+    400132: Line066
+    400134: Line067
+    400136: Line068
+    400138: Line069
+    400140: Line070
+    400142: Line071
+    400144: Line072
+    400146: Line073
+    400148: Rectangle002
     2300000: Line001
     2300002: Line002
     2300004: Line003
@@ -192,7 +216,19 @@ ModelImporter:
     2300116: Line059
     2300118: Line060
     2300120: Line061
-    2300122: Rectangle001
+    2300122: Line062
+    2300124: Line063
+    2300126: Line064
+    2300128: Line065
+    2300130: Line066
+    2300132: Line067
+    2300134: Line068
+    2300136: Line069
+    2300138: Line070
+    2300140: Line071
+    2300142: Line072
+    2300144: Line073
+    2300146: Rectangle002
     3300000: Line001
     3300002: Line002
     3300004: Line003
@@ -254,7 +290,19 @@ ModelImporter:
     3300116: Line059
     3300118: Line060
     3300120: Line061
-    3300122: Rectangle001
+    3300122: Line062
+    3300124: Line063
+    3300126: Line064
+    3300128: Line065
+    3300130: Line066
+    3300132: Line067
+    3300134: Line068
+    3300136: Line069
+    3300138: Line070
+    3300140: Line071
+    3300142: Line072
+    3300144: Line073
+    3300146: Rectangle002
     4300000: Line001
     4300002: Line002
     4300004: Line003
@@ -316,7 +364,19 @@ ModelImporter:
     4300116: Line059
     4300118: Line060
     4300120: Line061
-    4300122: Rectangle001
+    4300122: Line062
+    4300124: Line063
+    4300126: Line064
+    4300128: Line065
+    4300130: Line066
+    4300132: Line067
+    4300134: Line068
+    4300136: Line069
+    4300138: Line070
+    4300140: Line071
+    4300142: Line072
+    4300144: Line073
+    4300146: Rectangle002
     9500000: //RootNode
   materials:
     importMaterials: 1
